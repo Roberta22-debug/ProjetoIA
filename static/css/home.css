@@ -1,0 +1,24 @@
+#conteiner{
+    width: 1600px;
+    height: 620px;
+    background-color: rgb(110, 34, 155);
+    font-size: 80px;
+    margin-top: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+    .img{
+        display: inline-flex;
+        position: absolute;
+        top: 60%;
+        left: 78%;
+        transform: translate(-50%, -50%);
+    }
+        .p{
+            text-align: center;
+            font-size: 40px;
+            color: grey;
+            top: 10%;
+        }
